@@ -1,3 +1,9 @@
+# ------------ Trabalho de Automação Industrial --------------------
+# ---------------- Professor: Caio Viturino ------------------------
+# ------------------ Atividade: Rede Neural ------------------------
+# ---------------------- Fashion MNIST -----------------------------
+# --------- Equipe: Laiana Rios, Jorge Moreira, Samuel Dias --------
+
 print("INICIANDO REDE NEURAL")
 print("-"*100)
 
